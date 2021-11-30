@@ -1,0 +1,11 @@
+{
+    "name": "pxt-Botones",
+    "description": "Probar botones",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
